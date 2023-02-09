@@ -22,4 +22,24 @@ Separa todo en los siguientes componentes:
 - Keyboard
   - Key
 
-Entrega también un listado de responsabilidades.
+## listado de responsabilidades.
+
+### Info:
+
+-Texto calling/call ended
+
+### Display:
+
+-Mostrar los números marcados
+
+### Keyboard:
+
+-Conjunto de numeros
+-Botón Delete
+-Botón Call
+-Botón Hang
+
+### Actions:
+
+-Comprobar display para habilitar boton de llamar
+-Controlar botones Call y Hang
