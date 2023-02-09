@@ -15,14 +15,9 @@ export function usePhone() {
     setKeyboard((keyboard = ""));
   };
 
-  const displayLength = () => {
-    return keyboard.length === 9 ? true : false;
-  };
-
   return {
     keyboard,
     handleClickNumber,
     handleDelete,
-    displayLength,
   };
 }
